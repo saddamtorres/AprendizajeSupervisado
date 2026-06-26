@@ -1,2 +1,2 @@
 # AprendizajeSupervisado
-Aplicacion de tecnicas de lenguaje supervisado en mercadotecnia telefonica
+Aplicacion de tecnicas de aprendizaje supervisado en mercadotecnia telefonica
